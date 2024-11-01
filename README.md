@@ -25,7 +25,7 @@ I’m always eager to connect with like-minded individuals and explore new oppor
 ---
 ## Publications
 
-- **Exploring the Effectiveness of Large Language Models in Financial Question Answering** (Undergraduate Thesis) 
+- **Exploring the Effectiveness of Large Language Models in Financial Question Answering (Undergraduate Thesis)** 
   *ICCA 2024 | Accepted [Presentation Slide](https://github.com/Mondol007/Finance_Question_Answering/blob/main/Presentation%20Slide.pdf)
 - **BanglaOngko: A New Dataset for Accurate Bengali Mathematical Expression Detection Utilizing YOLOv8 Architecture**  
   *ICICT 2024 | Accepted  [Presentation Slide](https://github.com/Mondol007/Text-Summarization-with-Llama2-Gemma/blob/main/Presentation%20Slide.pdf)
