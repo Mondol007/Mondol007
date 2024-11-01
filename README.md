@@ -45,7 +45,7 @@ I’m always eager to connect with like-minded individuals and explore new oppor
 - **SigPlanet: Real-Time Hand Gesture Recognition with Mediapipe and LSTM**  [[Project]](https://github.com/Mondol007/Sigplanet_Webapp)
 - **Personalized Item Recommendation Using T5** [[Project]](https://github.com/Mondol007/Recommendation-System-with-T5)
 - **Kidney disease classification using VGG16 CNN** [[Project]](https://github.com/Mondol007/Kidney-dataset-VGG16-CNN)
-- **JFK Airport Visibility Prediction Using LSTM and GRU Time Series Models**  [[Project]](https://github.com/Mondol007/Noaa-Weather-Data-JFK-Airport)
+- **JFK Airport Visibility Prediction Using LSTM and GRU Models**  [[Project]](https://github.com/Mondol007/Noaa-Weather-Data-JFK-Airport)
 - **6 Bit CPU Design** [[Project]](https://github.com/Mondol007/6bit_CPU_design)
 - **Time Series Forecasting and Image Generation Using LSTM and Diffusion Models** [[Project]](https://github.com/Mondol007/Deep-Learning-Projects)  
 - **Soil-Strength-Prediction-Using-Machine-Learning-Regression-Models**  [[Project]](https://github.com/Mondol007/Soil-Strength-Prediction-Using-Machine-Learning-Regression-Models)
