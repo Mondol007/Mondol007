@@ -42,7 +42,7 @@ I’m always eager to connect with like-minded individuals and explore new oppor
 - **Preprocessing, Fine-Tuning, and Conversational Retrieval with Llama-2**  [[Project]](https://github.com/Mondol007/Large-Language-Models-Projects)
 - **Comprehensive NLP Toolkit: Transformers, LangChain, and Question Answering**  [[Project]](https://github.com/Mondol007/Natural-Language-Processing-Projects)
 - **Foundations of Neural Network Algorithms: Lab Implementation from Scratch** [[Project]](https://github.com/Mondol007/Neural-Network-Algorithms)
-- **SigPlanet: Real-Time Hand Gesture Recognition with Mediapipe and LSTM**  [[Project]](https://github.com/Mondol007/Sigplanet_Webapp)
+- **SigPlanet: Real-Time Sign Language Detection**  [[Project]](https://github.com/Mondol007/Sigplanet_Webapp)
 - **Personalized Item Recommendation Using T5** [[Project]](https://github.com/Mondol007/Recommendation-System-with-T5)
 - **Kidney disease classification using VGG16 CNN** [[Project]](https://github.com/Mondol007/Kidney-dataset-VGG16-CNN)
 - **JFK Airport Visibility Prediction Using Time Series Forecasting**  [[Project]](https://github.com/Mondol007/Noaa-Weather-Data-JFK-Airport)
