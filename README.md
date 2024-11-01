@@ -53,7 +53,7 @@ I’m always eager to connect with like-minded individuals and explore new oppor
 - **Smart Student Guide: Enhancing University Connectivity for Students via Android Application**  [[Project]](https://github.com/Mondol007/Smart-Student-Guide)
 - **Information System Analysis and Design: A Comprehensive Study of Rajshahi Krishi Unnayan Bank (RAKUB)**  [[Project]](https://github.com/Mondol007/CSE_Coursework/blob/main/Information%20System%20Analysis%20%26%20Design/Assessment.pdf)
 - **Real Estate Web Application: A User-Centric Platform for Property Transactions** [[Project]](https://github.com/Mondol007/BTRE_Project)
-- **CSE Undergraduate Coursework** [[Project]](https://github.com/Mondol007/CSE_Coursework)
+- **CSE Undergraduate Coursework** [[Courseworks]](https://github.com/Mondol007/CSE_Coursework)
 
 
 
