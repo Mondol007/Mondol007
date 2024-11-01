@@ -26,9 +26,9 @@ I’m always eager to connect with like-minded individuals and explore new oppor
 ## Publications
 
 - **Exploring the Effectiveness of Large Language Models in Financial Question Answering** (Undergraduate Thesis)
-  - *ICCA 2024 | Accepted [Presentation Slide](https://github.com/Mondol007/Finance_Question_Answering/blob/main/Presentation%20Slide.pdf)
+   *ICCA 2024 | Accepted [Presentation Slide](https://github.com/Mondol007/Finance_Question_Answering/blob/main/Presentation%20Slide.pdf)
 - **Evaluating the Text Summarization Efficiency of Large Language Models**  
-  - *ICICT 2024 | Accepted  [Presentation Slide](https://github.com/Mondol007/Text-Summarization-with-Llama2-Gemma/blob/main/Presentation%20Slide.pdf)
+   *ICICT 2024 | Accepted  [Presentation Slide](https://github.com/Mondol007/Text-Summarization-with-Llama2-Gemma/blob/main/Presentation%20Slide.pdf)
 
 
 <!-- 
