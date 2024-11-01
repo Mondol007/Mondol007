@@ -50,7 +50,7 @@ I’m always eager to connect with like-minded individuals and explore new oppor
 - **Time Series Forecasting and Image Generation Using LSTM and Diffusion Models** [[Project]](https://github.com/Mondol007/Deep-Learning-Projects)  
 - **Soil-Strength-Prediction-Using-Machine-Learning-Regression-Models**  [[Project]](https://github.com/Mondol007/Soil-Strength-Prediction-Using-Machine-Learning-Regression-Models)
 - **Comprehensive Machine Learning Algorithms and Practical Projects**  [[Project]](https://github.com/Mondol007/Machine-Learning-Algorithms-Projects)
-- **Smart Student Guide: Enhancing University Connectivity for Students via Android Application**  [[Project]](https://github.com/Mondol007/Smart-Student-Guide)
+- **Smart Student Guide: Enhancing University Connectivity for Students**  [[Project]](https://github.com/Mondol007/Smart-Student-Guide)
 - **Information System Analysis and Design: A Comprehensive Study of Rajshahi Krishi Unnayan Bank (RAKUB)**  [[Project]](https://github.com/Mondol007/CSE_Coursework/blob/main/Information%20System%20Analysis%20%26%20Design/Assessment.pdf)
 - **Real Estate Web Application: A User-Centric Platform for Property Transactions** [[Project]](https://github.com/Mondol007/BTRE_Project)
 - **CSE Undergraduate Coursework** [[Courseworks]](https://github.com/Mondol007/CSE_Coursework)
