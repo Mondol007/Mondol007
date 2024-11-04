@@ -4,7 +4,8 @@ I’m **Mondol**, a researcher with a strong passion for leveraging artificial i
 
 I thrive on exploring innovative solutions and collaborating with others in the tech community. My projects range from developing NLP toolkits and real-time gesture recognition systems to time series forecasting and personalized recommendation systems. Additionally, I have experience in web and Android development.
 
-I’m always eager to connect with like-minded individuals and explore new opportunities to build impactful technologies together. Let’s collaborate and create something groundbreaking!
+I’m always eager to connect with like-minded individuals and explore new opportunities to build impactful technologies. Let’s collaborate and create something groundbreaking!
+> For more information about my work, please visit my [website](https://mondol007.github.io/).
 
  <!--
  ---
