@@ -29,7 +29,7 @@ I’m always eager to connect with like-minded individuals and explore new oppor
 - **Exploring the Effectiveness of Large Language Models in Financial Question Answering** (Undergraduate Thesis)
     - ICCA 2024 | [DOI](https://dl.acm.org/doi/10.1145/3723178.3723244) | [Presentation Slide](https://github.com/Mondol007/Finance_Question_Answering/blob/main/Presentation%20Slide.pdf)
 - **Evaluating the Text Summarization Efficiency of Large Language Models**  
-    - ICICT 2024 | Accepted  [Presentation Slide](https://github.com/Mondol007/Text-Summarization-with-Llama2-Gemma/blob/main/Presentation%20Slide.pdf)
+    - ICICT 2024 | [DOI](https://ieeexplore.ieee.org/document/10839646) | [Presentation Slide](https://github.com/Mondol007/Text-Summarization-with-Llama2-Gemma/blob/main/Presentation%20Slide.pdf)
 
 
 <!-- 
